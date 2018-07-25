@@ -89,5 +89,8 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+#Use SCSS loader
+*.css
+
 
 # End of https://www.gitignore.io/api/web,webstorm
